@@ -1,0 +1,8 @@
+115200
+8
+None
+1.5
+Even
+
+# XML
+# JSON
