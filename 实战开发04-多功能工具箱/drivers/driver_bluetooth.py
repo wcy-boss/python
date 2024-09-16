@@ -1,6 +1,5 @@
 import bluetooth
 
-
 # 扫描所有设备
 class BluetoothDataTransfer:
     def __init__(self, target_address, target_name, port=1):

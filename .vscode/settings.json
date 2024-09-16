@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./实战开发04-多功能工具箱/views/widget_"
+    ]
+}

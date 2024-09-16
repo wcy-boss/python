@@ -5,7 +5,7 @@
 ● 计算输出a+b=?
 
 int() 参数是个字符串，要求必须是纯数字
-否则：ValueError: invalid literal for int() with base 10: 'Bf'
+否则:ValueError: invalid literal for int() with base 10: 'Bf'
 """
 
 # ● 用户输入整型变量a, 再类型转换

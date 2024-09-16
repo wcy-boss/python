@@ -8,7 +8,7 @@
 1. 定义容器，保存所有合法内容：数字 字母 _
 2. for循环遍历密码中每一个元素
 3. 判断每一个元素是否合法
-4. 如果不合法，执行break
+4. 如果不合法,执行break
 """
 # 1. 定义容器，保存所有合法内容：数字 字母 _
 container = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_"
