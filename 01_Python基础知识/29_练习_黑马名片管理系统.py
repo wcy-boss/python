@@ -20,7 +20,7 @@ def create_card():
     print("【新建名片】")
     name = input("请输入姓名：")
     phone = input("请输入电话：")
-    qq = input("请输入QQ：")
+    qq = input("请输入QQ:")
     email = input("请输入邮箱：")
     card = [name, phone, qq, email]
     cards.append(card)
