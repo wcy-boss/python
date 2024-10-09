@@ -58,7 +58,7 @@ def handle_card(card):
             print("【修改名片】")
             card[0] = input("请输入姓名：")
             card[1] = input("请输入电话：")
-            card[2] = input("请输入QQ：")
+            card[2] = input("请输入QQ:")
             card[3] = input("请输入邮箱：")
             print("【{} 名片修改成功】".format(card[0]))
             break
